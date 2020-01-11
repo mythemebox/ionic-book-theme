@@ -2,6 +2,10 @@
 
 Please follow this documentation for https://mythemebox.com/template/ionic-book-theme/
 
+Faceing any issue? Let us know: 
+
+- https://github.com/mythemebox/support
+- https://mythemebox.com/contact/
 
 ### Prerequisites
 
